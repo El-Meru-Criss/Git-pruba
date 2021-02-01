@@ -1,0 +1,72 @@
+* {
+
+    margin: 0px;
+
+}
+
+/* superior */
+#superior{
+
+    text-align: center;
+
+    width: 100%;
+    
+    background-image: url(https://image.freepik.com/foto-gratis/hermoso-fondo-banner-textura-hoja-naturaleza_156745-285.jpg);
+    background-size: 100%;
+
+    
+
+}
+
+#inferior{
+
+background-color: rgb(32, 32, 32);
+border-bottom: 1px solid rgb(177, 252, 57);
+border-top: 1px solid rgb(177, 252, 57);
+
+}
+
+img{
+
+    width: 128px;
+
+}
+
+#flecha{
+
+    width: 70px;
+
+}
+
+
+
+.logo{
+
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-right: 15px;
+    text-align: center;
+    display: inline-block;
+   
+    height: 300px;
+    width: 200px;
+    border: 1px solid rgb(177, 252, 57);
+    background-image: url(https://image.freepik.com/foto-gratis/hermoso-fondo-banner-textura-hoja-naturaleza_156745-285.jpg);
+    color: rgb(32, 32, 32);
+}
+
+#gato{
+
+    margin-left: 26%;
+
+}
+
+footer{
+
+    background-image: url(https://image.freepik.com/foto-gratis/hermoso-fondo-banner-textura-hoja-naturaleza_156745-285.jpg);
+    background-size: 100%;
+    text-align: center;
+    
+}
+
+
