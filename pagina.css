@@ -23,6 +23,7 @@
 background-color: rgb(32, 32, 32);
 border-bottom: 1px solid rgb(177, 252, 57);
 border-top: 1px solid rgb(177, 252, 57);
+text-align: center;
 
 }
 
@@ -57,7 +58,7 @@ img{
 
 #gato{
 
-    margin-left: 26%;
+    
 
 }
 
