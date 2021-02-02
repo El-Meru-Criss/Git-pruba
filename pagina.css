@@ -33,11 +33,7 @@ img{
 
 }
 
-#flecha{
 
-    width: 70px;
-
-}
 
 
 
@@ -56,11 +52,7 @@ img{
     color: rgb(32, 32, 32);
 }
 
-#gato{
 
-    
-
-}
 
 footer{
 
@@ -101,3 +93,34 @@ h2{
     margin-top: 2%;
 
 }
+
+
+#abeja:hover{
+
+    filter: sepia(100%) saturate(330%) opacity(97%) contrast(92%);
+    -webkit-filter: sepia(100%) saturate(330%) opacity(97%) contrast(92%);
+    -moz-filter: sepia(100%) saturate(330%) opacity(97%) contrast(92%);
+    transition-duration: 2s;
+
+}
+
+
+#perro:hover {
+
+    filter: sepia(100%) hue-rotate(193deg) saturate(330%) opacity(97%) contrast(92%);
+    -webkit-filter: sepia(100%) hue-rotate(193deg) saturate(330%) opacity(97%) contrast(92%);
+    -moz-filter: sepia(100%) hue-rotate(193deg) saturate(330%) opacity(97%) contrast(92%);
+    transition-duration: 2s;
+
+}
+
+#gato:hover {
+
+    filter: sepia(100%) hue-rotate(310deg) saturate(330%) opacity(97%) contrast(92%);
+    -webkit-filter: sepia(100%) hue-rotate(310deg) saturate(330%) opacity(97%) contrast(92%);
+    -moz-filter: sepia(100%) hue-rotate(310deg) saturate(330%) opacity(97%) contrast(92%);
+    transition-duration: 2s;
+
+}
+
+
