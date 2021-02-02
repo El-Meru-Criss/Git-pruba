@@ -95,6 +95,14 @@ h2{
 }
 
 
+.logo:hover{
+
+    transform: scale(0.9);
+    transition-duration: 0.5s;
+
+}
+
+
 #abeja:hover{
 
     filter: sepia(100%) saturate(330%) opacity(97%) contrast(92%);
