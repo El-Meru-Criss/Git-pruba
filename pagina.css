@@ -43,14 +43,14 @@ img{
 
 .logo{
 
-    margin-top: 4%;
+    margin-top: 2%;
     margin-bottom: 4%;
     margin-right: 15px;
     text-align: center;
     display: inline-block;
    
-    height: 300px;
-    width: 200px;
+    
+    width: 250px;
     border: 1px solid rgb(177, 252, 57);
     background-image: url(https://image.freepik.com/foto-gratis/hermoso-fondo-banner-textura-hoja-naturaleza_156745-285.jpg);
     color: rgb(32, 32, 32);
@@ -70,4 +70,34 @@ footer{
     
 }
 
+a{
 
+    color: whitesmoke;
+    text-decoration: none;
+
+
+}
+
+
+hr{
+
+  
+    border-width: 0.5px;
+    border-color: rgb(177, 252, 57);
+
+}
+
+#flecha{
+
+    width: 200px;
+    border-radius: 200px;
+    filter: brightness(0.25);
+
+}
+
+h2{
+
+    color:  rgb(177, 252, 57);
+    margin-top: 2%;
+
+}
