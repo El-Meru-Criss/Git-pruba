@@ -100,15 +100,14 @@ h2{
     transform: scale(0.9);
     transition-duration: 0.5s;
 
+
+
 }
 
 
 #abeja:hover{
 
-    filter: sepia(100%) saturate(330%) opacity(97%) contrast(92%);
-    -webkit-filter: sepia(100%) saturate(330%) opacity(97%) contrast(92%);
-    -moz-filter: sepia(100%) saturate(330%) opacity(97%) contrast(92%);
-    transition-duration: 2s;
+    
 
 }
 
@@ -124,10 +123,31 @@ h2{
 
 #gato:hover {
 
+    
+
     filter: sepia(100%) hue-rotate(310deg) saturate(330%) opacity(97%) contrast(92%);
     -webkit-filter: sepia(100%) hue-rotate(310deg) saturate(330%) opacity(97%) contrast(92%);
     -moz-filter: sepia(100%) hue-rotate(310deg) saturate(330%) opacity(97%) contrast(92%);
     transition-duration: 2s;
+
+}
+
+html.cambio-a{
+
+    filter: sepia(100%) saturate(330%) opacity(97%) contrast(92%);
+    -webkit-filter: sepia(100%) saturate(330%) opacity(97%) contrast(92%);
+    -moz-filter: sepia(100%) saturate(330%) opacity(97%) contrast(92%);
+    transition-duration: 2s;
+
+}
+
+html.cambio-a .logo #perro #gato {
+
+    filter: sepia(0%) saturate(0%) opacity(0%) contrast(0%);
+    -webkit-filter: sepia(0%) saturate(0%) opacity(0%) contrast(0%);
+    -moz-filter: sepia(0%) saturate(0%) opacity(0%) contrast(0%);
+    
+
 
 }
 
